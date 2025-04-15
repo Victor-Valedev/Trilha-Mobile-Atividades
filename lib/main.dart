@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:trilhamobile/atividades/atividade_2.dart';
+import 'package:trilhamobile/atividades/atividade_3.dart';
 
 
 void main() => runApp(MaterialApp(
@@ -17,8 +17,8 @@ class AtividadesFuncoes extends StatelessWidget {
           padding: EdgeInsets.all(16),
           child: Column(
             children: <Widget> [
-              Atividade2(),
               Divider(),
+              Atividade3()
             ],
           ),
         ),
