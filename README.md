@@ -1,16 +1,6 @@
-# trilhamobile
+# 📱 Trilha Mobile - Atividades
 
-A new Flutter project.
+Este repositório contém as atividades desenvolvidas durante a **Trilha Mobile**, com foco em Flutter/Dart.
 
-## Getting Started
+Cada atividade está separada por uma branch específica para manter a organização e facilitar a navegação entre os exercícios.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
